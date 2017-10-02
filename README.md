@@ -1,0 +1,2 @@
+# Disk_task_project_
+runExp 3 consists of one bisected diks, separated by a short distance; it appears randomly in one of the four corners. runExp4 consists of a bisected disk that appears randomly on one of the two halves of the rectangle (left/right). On runExp5,the halves of the bisected disk appear on the same half of the rectangle, separated by 100 pixels (4 random positions). In runExp6, the bisected disks appear with gray square between them randomly in one of the four corners.
